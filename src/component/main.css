@@ -1,0 +1,17 @@
+.select{
+    margin-left: 20px;
+    border:none;
+}
+.select:hover{
+    background:lightcyan;
+}
+.checkbox{
+    background: lightgreen;
+}
+input[type=checkbox] {
+    transform: scale(2);
+    -ms-transform: scale(2);
+    -webkit-transform: scale(2);
+    padding: 10px;
+    margin:10px;
+}
